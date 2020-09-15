@@ -1,0 +1,5 @@
+C:\Users\Julian\source\repos\2D Grid based Game\2D Grid based Game\obj\Debug\2D Grid based Game.csprojAssemblyReference.cache
+C:\Users\Julian\source\repos\2D Grid based Game\2D Grid based Game\obj\Debug\_2D_Grid_based_Game.Form1.resources
+C:\Users\Julian\source\repos\2D Grid based Game\2D Grid based Game\obj\Debug\_2D_Grid_based_Game.Properties.Resources.resources
+C:\Users\Julian\source\repos\2D Grid based Game\2D Grid based Game\obj\Debug\2D Grid based Game.csproj.GenerateResource.cache
+C:\Users\Julian\source\repos\2D Grid based Game\2D Grid based Game\obj\Debug\2D Grid based Game.csproj.CoreCompileInputs.cache
